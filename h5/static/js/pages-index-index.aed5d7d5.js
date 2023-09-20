@@ -1717,7 +1717,7 @@ a2_0x4e145f(), (window[a2_0x414849(0x3b2)] = window[a2_0x414849(0x3b2)] || [])['
                         'staticClass': 'navbar',
                         'attrs': {
                             'placeholder': !0x0,
-                            'title': '心动砰然',
+                            'title': '情侣飞行棋',
                             'titleStyle': {
                                 'color': _0x2f4c38(0x31b),
                                 'font-weight': 'bold'
