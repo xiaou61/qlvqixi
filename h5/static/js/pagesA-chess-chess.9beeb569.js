@@ -2139,7 +2139,7 @@ a7_0x1f2614(), (window[a7_0x3f3e74(0x2b3)] = window[a7_0x3f3e74(0x2b3)] || [])[a
 					},
 					'title': {
 						'type': String,
-						'default': '标题'
+						'default': '123'
 					},
 					'color': {
 						'type': String,
@@ -8941,6 +8941,9 @@ a7_0x1f2614(), (window[a7_0x3f3e74(0x2b3)] = window[a7_0x3f3e74(0x2b3)] || [])[a
 							var _0xc79b59 = _0x11131a;
 							this[_0xc79b59(0x1bf)](), this['initLocal']();
 						},
+						'onbeforeunload':function (){
+							document.title='心动砰然'
+						},
 						'onLoad': function(_0x236495) {
 							var _0x126066 = _0x11131a,
 								_0x2efd54 = this;
@@ -8949,7 +8952,8 @@ a7_0x1f2614(), (window[a7_0x3f3e74(0x2b3)] = window[a7_0x3f3e74(0x2b3)] || [])[a
 									0x596)]) {
 								if (!['1'][_0x126066(0x488)](this['mode'])) {
 									uni[_0x126066(0x3c4)]({
-										'title': _0x126066(0x26b),
+
+										'title': '心动怦然',
 										'icon': 'none'
 									});
 									var _0x24a580 = setTimeout(function() {
@@ -8962,6 +8966,7 @@ a7_0x1f2614(), (window[a7_0x3f3e74(0x2b3)] = window[a7_0x3f3e74(0x2b3)] || [])[a
 							}
 							this[_0x126066(0x64a)] && this[_0x126066(0x4e3)](), this[_0x126066(
 								0x57e)]();
+							document.title="心动怦然"
 						},
 						'beforeDestroy': function() {
 							var _0x1f5188 = _0x11131a;
@@ -9760,6 +9765,7 @@ a7_0x1f2614(), (window[a7_0x3f3e74(0x2b3)] = window[a7_0x3f3e74(0x2b3)] || [])[a
 									this[_0xc1dfc7(0x4a7)] = 0x0, this['initLocal']
 									();
 								})), this['showTip'] = !0x1;
+								document.title="心动怦然"
 							},
 							'clickTip': function(_0x177601) {
 								var _0x3a10d3 = _0x11131a;
@@ -10529,3 +10535,4 @@ a7_0x1f2614(), (window[a7_0x3f3e74(0x2b3)] = window[a7_0x3f3e74(0x2b3)] || [])[a
 		}
 	}
 ]);
+
