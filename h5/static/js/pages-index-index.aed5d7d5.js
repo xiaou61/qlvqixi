@@ -3819,7 +3819,7 @@ function a2_0x15ac() {
         'img_obj', 'substr', 'rect', 'replace', 'callee', '.json', 'distance', 'keyboard', 'decrypt', '人物头像',
         'speed', 'extend-title', 'encryptNumber', 'exports', 'small', 'goTurntable', 'translateX(-50%)', '#e47470',
         'borderColor', 'tip-box',
-        '禁止未成年使用 本产品主要致力于爱情的多元化和持久化，解锁恋爱新体验，与您心爱之人一同走进甜蜜的世界吧!识别码获取地址公众号:「心动砰然」',
+        '禁止未成年使用 本产品主要致力于爱情的多元化和持久化，解锁恋爱新体验，与您心爱之人一同走进甜蜜的世界吧!',
         'lockVipClick', 'drawAnimFrame', 'newCode', 'toString', 'value_area', 'bullet-close', 'default', 'widthFix',
         'onCustom', 'fill', '2919992OZiHtL', 'pow', 'open', '5530', 'pass-box', '去激活', 'x_left', '76rpx',
         'Error\x20pJS\x20-\x20No\x20image.src', 'url', 'pushing', 'mixin', 'avatarGroup',

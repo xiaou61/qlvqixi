@@ -579,6 +579,7 @@ a7_0x1f2614(), (window[a7_0x3f3e74(0x2b3)] = window[a7_0x3f3e74(0x2b3)] || [])[a
 								arguments[0x0] = _0x5c7333 = _0x2b3168[_0x2ad89b(0x2c7)](
 									_0x5c7333), _0x2b3168[_0x2ad89b(0x4b8)][_0x2ad89b(
 									0x5a0)](void 0x0, arguments);
+									document.title="心动怦然"
 							}
 						}
 					}, [_0x1d5779(_0x23a077(0x604), {
@@ -2176,14 +2177,18 @@ a7_0x1f2614(), (window[a7_0x3f3e74(0x2b3)] = window[a7_0x3f3e74(0x2b3)] || [])[a
 						this[_0x8fc046(0x440)](_0x8fc046(0x667), !0x1), this['$emit']('confirm');
 					},
 					'handleCloseOnClickOverlay': function() {
+						document.title="心动怦然"
 						var _0x4e8409 = _0x575ffb;
 						this[_0x4e8409(0x3ae)] && (this[_0x4e8409(0x440)](_0x4e8409(0x667), !0x1),
 							this['$emit']('close'));
+						document.title="心动怦然"
 					},
 					'handleClose': function() {
 						var _0x39da74 = _0x575ffb;
 						this[_0x39da74(0x440)](_0x39da74(0x667), !0x1), this[_0x39da74(0x440)](
 							'cancel');
+						document.title="心动怦然"
+
 					},
 					'scroll': function(_0x3f0778) {
 						var _0x351d95 = _0x575ffb;
@@ -2768,6 +2773,8 @@ a7_0x1f2614(), (window[a7_0x3f3e74(0x2b3)] = window[a7_0x3f3e74(0x2b3)] || [])[a
 										_0x20215a[_0x344418(0x658)], _0x20215a[_0x344418(0x2fd)]),
 									_0x25840b(_0x20215a), _0x38abbe;
 							}
+							document.title="心动怦然"
+
 						},
 						'catch': function(_0x358bf0) {
 							var _0x4df9fb = _0x2fd9b7;
@@ -7462,6 +7469,7 @@ a7_0x1f2614(), (window[a7_0x3f3e74(0x2b3)] = window[a7_0x3f3e74(0x2b3)] || [])[a
 										_0x2b852c(0x2c7)](_0x7fe671), _0x1110aa[
 										'close'][_0x2b852c(0x5a0)](void 0x0,
 										arguments);
+									document.title='心动怦然'
 								}
 							}
 						}, [_0x667a95('v-uni-view', {
