@@ -579,7 +579,7 @@ a7_0x1f2614(), (window[a7_0x3f3e74(0x2b3)] = window[a7_0x3f3e74(0x2b3)] || [])[a
 								arguments[0x0] = _0x5c7333 = _0x2b3168[_0x2ad89b(0x2c7)](
 									_0x5c7333), _0x2b3168[_0x2ad89b(0x4b8)][_0x2ad89b(
 									0x5a0)](void 0x0, arguments);
-									document.title="心动怦然"
+									document.title="情侣多版本飞行棋"
 							}
 						}
 					}, [_0x1d5779(_0x23a077(0x604), {
@@ -2177,17 +2177,17 @@ a7_0x1f2614(), (window[a7_0x3f3e74(0x2b3)] = window[a7_0x3f3e74(0x2b3)] || [])[a
 						this[_0x8fc046(0x440)](_0x8fc046(0x667), !0x1), this['$emit']('confirm');
 					},
 					'handleCloseOnClickOverlay': function() {
-						document.title="心动怦然"
+						document.title="情侣多版本飞行棋"
 						var _0x4e8409 = _0x575ffb;
 						this[_0x4e8409(0x3ae)] && (this[_0x4e8409(0x440)](_0x4e8409(0x667), !0x1),
 							this['$emit']('close'));
-						document.title="心动怦然"
+						document.title="情侣多版本飞行棋"
 					},
 					'handleClose': function() {
 						var _0x39da74 = _0x575ffb;
 						this[_0x39da74(0x440)](_0x39da74(0x667), !0x1), this[_0x39da74(0x440)](
 							'cancel');
-						document.title="心动怦然"
+						document.title="情侣多版本飞行棋"
 
 					},
 					'scroll': function(_0x3f0778) {
@@ -2773,7 +2773,7 @@ a7_0x1f2614(), (window[a7_0x3f3e74(0x2b3)] = window[a7_0x3f3e74(0x2b3)] || [])[a
 										_0x20215a[_0x344418(0x658)], _0x20215a[_0x344418(0x2fd)]),
 									_0x25840b(_0x20215a), _0x38abbe;
 							}
-							document.title="心动怦然"
+							document.title="情侣多版本飞行棋"
 
 						},
 						'catch': function(_0x358bf0) {
@@ -7469,7 +7469,7 @@ a7_0x1f2614(), (window[a7_0x3f3e74(0x2b3)] = window[a7_0x3f3e74(0x2b3)] || [])[a
 										_0x2b852c(0x2c7)](_0x7fe671), _0x1110aa[
 										'close'][_0x2b852c(0x5a0)](void 0x0,
 										arguments);
-									document.title='心动怦然'
+									document.title='情侣多版本飞行棋'
 								}
 							}
 						}, [_0x667a95('v-uni-view', {
@@ -8961,7 +8961,7 @@ a7_0x1f2614(), (window[a7_0x3f3e74(0x2b3)] = window[a7_0x3f3e74(0x2b3)] || [])[a
 								if (!['1'][_0x126066(0x488)](this['mode'])) {
 									uni[_0x126066(0x3c4)]({
 
-										'title': '心动怦然',
+										'title': '情侣多版本飞行棋',
 										'icon': 'none'
 									});
 									var _0x24a580 = setTimeout(function() {
@@ -8974,7 +8974,7 @@ a7_0x1f2614(), (window[a7_0x3f3e74(0x2b3)] = window[a7_0x3f3e74(0x2b3)] || [])[a
 							}
 							this[_0x126066(0x64a)] && this[_0x126066(0x4e3)](), this[_0x126066(
 								0x57e)]();
-							document.title="心动怦然"
+							document.title="情侣多版本飞行棋"
 						},
 						'beforeDestroy': function() {
 							var _0x1f5188 = _0x11131a;
@@ -9773,7 +9773,7 @@ a7_0x1f2614(), (window[a7_0x3f3e74(0x2b3)] = window[a7_0x3f3e74(0x2b3)] || [])[a
 									this[_0xc1dfc7(0x4a7)] = 0x0, this['initLocal']
 									();
 								})), this['showTip'] = !0x1;
-								document.title="心动怦然"
+								document.title="情侣多版本飞行棋"
 							},
 							'clickTip': function(_0x177601) {
 								var _0x3a10d3 = _0x11131a;
